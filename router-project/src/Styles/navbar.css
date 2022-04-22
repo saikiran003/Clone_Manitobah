@@ -1,0 +1,46 @@
+.navbar {
+  height: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+.logo {
+  width: 260px;
+  height: 51px;
+  margin-top: 25px;
+  cursor: pointer;
+}
+.products {
+  width: 600px;
+  height: 61px;
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.icons {
+  width: 210px;
+  height: 61px;
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.logo > img {
+  width: 100%;
+  height: 100%;
+}
+.products div {
+  height: 35px;
+  margin-top: 15px;
+cursor: pointer;
+}
+.icons div {
+  width: 32px;
+  height: 32px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.icons img {
+  width: 100%;
+  height: 100%;
+}

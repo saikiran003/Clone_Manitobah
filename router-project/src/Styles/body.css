@@ -1,0 +1,12 @@
+.hero__image-wrapper{
+    margin: auto;
+    position: relative;
+    width:95%;
+}
+.image-fit{
+    width:100%;
+}
+.Spring{
+    position: absolute;
+    color: black;
+}

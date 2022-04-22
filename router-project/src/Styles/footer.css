@@ -1,0 +1,52 @@
+.footer{
+    height:500px;
+    display: flex;
+    padding: 20px;
+}
+.footer>div:first-child{
+    width:250px;
+    height:350px;
+    margin-right: 150px;
+
+}
+.footer>div:first-child>p{
+    font-size: 25px;
+}
+.footer>div:nth-child(2){
+    height:250px;
+    width:300px;
+    margin-right: 150px;
+
+}
+.footer>div:nth-child(2)>p{
+    font-size: 25px;
+}
+.footer>div:nth-child(2)>div>p{
+    line-height: 200%;
+}
+.footer>div:last-child{
+    height:250px;
+    width:500px;
+}
+.footer>div:last-child>p{
+    font-size: 25px;
+}
+.footer>div:last-child>input{
+    height:25px;
+    width:300px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px solid black;
+    padding: 5px;
+}
+.icon-instagram{
+    height:24px;
+    width:24px;
+}
+.footer>div:last-child>div:last-child{
+    margin-top: 20px;
+    gap:10px;
+    display: flex;
+
+}
