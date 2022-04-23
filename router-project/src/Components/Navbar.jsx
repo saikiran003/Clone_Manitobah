@@ -12,7 +12,7 @@ function Navbar() {
       </div>
       <div className="products">
         <div>
-          <Link to="/women">Women</Link>
+          <Link to="/products">Women</Link>
         </div>
         <div>Kids</div>
         <div>Mens</div>

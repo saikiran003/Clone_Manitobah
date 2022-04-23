@@ -8,9 +8,22 @@
     gap:20px;
 }
 .Container>div{
-    height:500px;
+    height:auto;
 }
 .Container>div> img{
     width:100%;
-    height:75%;
+    height:60%;
+}
+.button {
+    display: block;
+    width: 115px;
+    height: 25px;
+    background: #4E9CAF;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    line-height: 25px;
+    text-decoration: none;
 }
